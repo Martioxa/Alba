@@ -1,0 +1,266 @@
+.header a {
+    color: #000000;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header-content h1 {
+    font-size: 35px;
+    line-height: 80px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header-content p {
+    font-size: 16px;
+    color: #000000;
+    padding: 0 250px;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.clasica {
+    padding: 100px 0;
+    background-color: #f8f8f8;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.clasica h2 {
+    text-align: left;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 300px;
+}
+
+.clasica p {
+    text-align: center;
+    margin-top: 3rem;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    margin-left: 100px;
+}
+
+
+.clasica img{
+    float: right;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 45%;
+    
+}
+
+.rrhh {
+    padding: 100px 0;
+    background-color: #ec8a97;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.rrhh h2 {
+    text-align: right;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-right: 22rem;
+}
+.rrhh img{
+    float: left;
+    margin-right:  25px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 25%;
+}
+.rrhh p {
+    text-align: center;
+    margin-top: 3rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}.sociologia {
+    padding: 100px 0;
+    background-color: #fec8d5;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.sociologia h2 {
+    text-align: left;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 295px;
+}
+
+.sociologia p {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+
+.sociologia img{
+    float: right;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 25%;
+    
+}
+
+.estructuralista {
+    padding: 100px 0;
+    background-color: #f8f8f8;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.estructuralista h2 {
+    text-align: right;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 15px;
+    margin-right: 35rem;
+}
+
+
+.estructuralista p {
+    text-align: center;
+    margin-top: 1rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.organizaciones {
+    padding: 100px 0;
+    background-color: #fff3ec;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.organizaciones h2 {
+    text-align: left;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 325px;
+}
+
+.organizaciones p {
+    text-align: center;
+    margin-top: 2rem;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+
+.organizaciones img{
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 25%;
+    margin-right: 150px;
+    
+}
+
+.sistemas {
+    padding: 100px 0;
+    background-color: #fec8d5;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.sistemas h2 {
+    text-align: right;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-right: 22rem;
+    margin-top: 25px;
+}
+.sistemas img{
+    float: left;
+    margin-right:  20px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    width: 35%;
+}
+.sistemas p {
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.footer {
+    background-color: #3e0f4a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer a:hover {
+    color: #fff;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}

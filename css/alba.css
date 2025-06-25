@@ -1,0 +1,151 @@
+.carousel-item img {
+    height: 600px;
+    object-fit: cover;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header a{
+    color: #000000;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.header-content h1 {
+    font-size: 35px;
+    line-height: 80px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.header-content p {
+    font-size: 16px;
+    color: #000000;
+    padding: 0 250px;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.coffee h2{
+    text-align: center;
+    color:#3e0f4a;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.delacasa {
+    display: flex;
+    gap: 30px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.btn-1 {
+    display: inline-block;
+    padding: 11px 35px;
+    background-color: #462851;
+    text-transform: uppercase;
+}
+
+.btn-1:hover {
+    background-color: #000000;
+}
+
+.coffee {
+    padding: 100px 0;
+    background-color: #f3c1ff;
+    position: relative;
+    margin-bottom: 0px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.coffee-content {
+    text-align: center;
+}
+
+.coffee-group {
+    margin-top: 15rem;
+}
+
+.nosotros {
+    position: relative;
+    padding: 100px 0;
+    background-color: #fff;
+    margin-bottom: 0px;
+    
+}
+
+.nosotros p {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nosotros h2 {
+    text-align: center;
+    margin-top: 0px;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.coffee-group h2 {
+    text-align: center;
+    margin-top: 7rem;
+}
+
+
+.text-p {
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 16px;
+    color: #000000;
+    padding: 0 250px;
+    margin-bottom: 35px;
+
+}
+
+
+
+
+
+
+.footer {
+    background-color: #3e0f4a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer a:hover {
+    color: #fff;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}

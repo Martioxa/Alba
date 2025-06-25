@@ -1,0 +1,74 @@
+
+
+.header a{
+    color: #000000;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.header-content h1 {
+    font-size: 35px;
+    line-height: 80px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.header-content p {
+    font-size: 16px;
+    color: #000000;
+    padding: 0 250px;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.menu{
+     padding: 100px 0;
+    background-color: #f6f6f6;
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.menu{
+    text-align: center;
+    justify-content: center;
+    position: center;
+}
+
+.menu img{
+     text-align: left;
+    position: relative;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-top: 0px;
+    max-width: 100%;
+}
+.footer {
+    background-color: #3e0f4a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer a:hover {
+    color: #fff;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}

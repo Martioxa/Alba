@@ -1,0 +1,163 @@
+.header a {
+    color: #000000;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header-content h1 {
+    font-size: 35px;
+    line-height: 80px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.header-content p {
+    font-size: 16px;
+    color: #000000;
+    padding: 0 250px;
+    margin-bottom: 25px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.organigrama h1 {
+    text-align: center;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.organigrama {
+    padding: 100px 0;
+    background-color: #f3c1ff;
+    position: relative;
+    margin-bottom: 0px;
+}
+
+.organigrama {
+    text-align: center;
+    justify-content: center;
+    position: center;
+    margin-bottom: 0px;
+}
+.organigrama img {
+    text-align: left;
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 95%;
+}
+.organigrama p {
+    text-align: center;
+    margin-top: 0px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.direccion {
+    padding: 100px 0;
+    background-color: #b591be;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.direccion h2 {
+    text-align: left;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 450px;
+}
+
+.direccion p {
+    text-align: center;
+    margin-top: 6.5rem;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 500px;
+}
+
+
+.direccion img{
+    float: right;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    
+}
+
+.control {
+    padding: 100px 0;
+    background-color: #f3c1ff;
+    position: relative;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.control h2 {
+    text-align: righ;
+    color: #3e0f4a;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: 60rem;
+}
+.control img{
+    float: left;
+    margin-right:  4px;
+    margin-bottom: 0px;
+    position: relative;
+}
+.control p {
+    text-align: center;
+    margin-top: 7rem;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.footer {
+    background-color: #3e0f4a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer a:hover {
+    color: #fff;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
